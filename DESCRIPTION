@@ -1,4 +1,4 @@
-Package: penguin_book
+Package: penguin
 Type: Book
 Title: Example of using Github Actions to deploy bookdown on Netlify
 Version: 0.0.1

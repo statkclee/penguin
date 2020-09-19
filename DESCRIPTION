@@ -1,6 +1,8 @@
-Package: placeholder
+Package: penguin_book
 Type: Book
-Title: Does not matter.
+Title: Example of using Github Actions to deploy bookdown on Netlify
 Version: 0.0.1
 Imports: bookdown
 Remotes: rstudio/bookdown
+URL: https://github.com/statkclee/penguin_book
+

@@ -1,6 +1,7 @@
 --- 
-title: "A Minimal Book Example"
-author: "Yihui Xie"
+title: "펭귄과 데이터 과학"
+subtitle: "펭귄이 데이터 과학에 미친 영향"
+author: "이광춘"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
